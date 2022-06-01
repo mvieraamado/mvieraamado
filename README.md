@@ -1,4 +1,4 @@
-Hi 👋 My name is Mariam Viera Amado
+Hi 👋 My name is Mariam
 ===================================
 
 Frontend developer
