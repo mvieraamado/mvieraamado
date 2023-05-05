@@ -4,8 +4,6 @@ Hi 👋 My name is Mariam
 Frontend developer
 ------------------
 
-I've been learning for 2 years now. I'm currently a frontend developer, but lately I'm also learning Python and Django.
-
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [mariamviera7@gmail.com](mailto:mariamviera7@gmail.com)
 * 🧠  I'm learning Python and Django
